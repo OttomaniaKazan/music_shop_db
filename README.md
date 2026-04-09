@@ -5,3 +5,4 @@
 1. ***Создание БД***:
 
     Создание БД по схеме ![схема](https://github.com/OttomaniaKazan/music_shop_db/blob/3a788b69c73c8cf612268ed5901c96191ad738b3/music_shop_db_diagramm.png "Схема БД Магазина")
+2. ***Наполнение БД***
